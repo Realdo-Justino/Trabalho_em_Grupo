@@ -27,6 +27,9 @@ def leiaint2(texto):
                 numero=1
         return numero
 
+print("\n")
+
+
 def Arma_Arco():
         print("\n\n")
         print("Dentre todas as armas, a que mais chama a atenção de Nyssa é uma besta que parece ter sido modificada múltiplas vezes para um resultado")
@@ -498,5 +501,4 @@ def Inicio():
     else:
         Negar_Proposta1()
 
-print("\n")
 Inicio()
